@@ -46,8 +46,7 @@
 ```
 
 ## 实际效果
+![device-2018-03-12-214431.png-256.2kB][1]
 
-![device-2018-03-12-214431.png-176.5kB][1]
 
-
-  [1]: http://static.zybuluo.com/Wind729/t661cfvy5upagsacebo0zllx/device-2018-03-12-214431.png
+  [1]: http://static.zybuluo.com/Wind729/nyq641l48k6gbu998dl9iwb8/device-2018-03-12-214431.png
