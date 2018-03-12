@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalLayoutTextView">
+        <attr name="needSepLine" format="boolean" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="needCollipseEnd" format="boolean" />
+        <attr name="normalCharPadding" format="dimension" />
+        <attr name="customMaxHeight" format="dimension" />
+        <attr name="maxLines" format="integer" />
+        <attr name="normalCharPaddingTop" format="dimension" />
+        <attr name="needLeftLine" format="boolean" />
+        <attr name="lineSpace" format="dimension" />
+    </declare-styleable>
+</resources>
